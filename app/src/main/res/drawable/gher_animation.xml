@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="false">
+    <item
+        android:drawable="@drawable/gher4"
+        android:duration="50" />
+    <item
+        android:drawable="@drawable/gher5"
+        android:duration="50" />
+    <item
+        android:drawable="@drawable/gher6"
+        android:duration="50" />
+    <item
+        android:drawable="@drawable/gher7"
+        android:duration="50" />
+    <item
+        android:drawable="@drawable/gher8"
+        android:duration="50" />
+    <item
+        android:drawable="@drawable/gher7"
+        android:duration="50" />
+    <item
+        android:drawable="@drawable/gher6"
+        android:duration="50" />
+    <item
+        android:drawable="@drawable/gher5"
+        android:duration="50" />
+    <item
+        android:drawable="@drawable/gher4"
+        android:duration="50" />
+    <item
+        android:drawable="@drawable/gher3"
+        android:duration="50" />
+    <item
+        android:drawable="@drawable/gher2"
+        android:duration="50" />
+    <item
+        android:drawable="@drawable/gher1"
+        android:duration="50" />
+    <item
+        android:drawable="@drawable/gher0"
+        android:duration="50" />
+    <item
+        android:drawable="@drawable/gher1"
+        android:duration="50" />
+    <item
+        android:drawable="@drawable/gher2"
+        android:duration="50" />
+    <item
+        android:drawable="@drawable/gher3"
+        android:duration="50" />
+</animation-list>
